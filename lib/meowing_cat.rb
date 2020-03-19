@@ -5,6 +5,3 @@ end
 maru = Cat.new 
 maru.name = "Maru"
 
-class Cat 
-  attr_accessor :meow
-end
